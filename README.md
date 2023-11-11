@@ -1,5 +1,5 @@
 # First_task_JR
 
-Encrypts text
+my first project "Text encryption"
 
 Only English words
